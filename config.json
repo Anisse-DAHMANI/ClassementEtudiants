@@ -1,0 +1,49 @@
+{
+    "s1": {
+        "id": "s1",
+        "ue": [
+            {
+                "id": "UE 11",
+                "header": "UE 11"
+            },
+            {
+                "id": "UE 12",
+                "header": "UE 12"
+            },
+            {
+                "id": "UE 13",
+                "header": "UE 13"
+            }
+        ]
+    },
+    "s2": {
+        "id": "s2",
+        "ue": [
+            {
+                "id": "UE 21",
+                "header": "UE 21 - Approfondissements en Informatique"
+            },
+            {
+                "id": "UE 22",
+                "header": "UE 22 - Approfondissements en culture scientifique, sociale et humaine"
+            }
+        ]
+    },
+    "s3": {
+        "id": "s3",
+        "ue": [
+            {
+                "id": "UE 31",
+                "header": "UE 31"
+            },
+            {
+                "id": "UE 32",
+                "header": "UE 32"
+            },
+            {
+                "id": "UE 33",
+                "header": "UE 33"
+            }
+        ]
+    }
+}
